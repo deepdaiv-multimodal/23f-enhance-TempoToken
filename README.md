@@ -8,7 +8,7 @@ The original TempoToken repository can be found at the following address: [Tempo
 ## Team Members
 |   Team Member  | GitHub ID           |
 |----------------|---------------------|
-|                | GitHubID1           |
+| jin woo hong               | j115713          |
 | Ji Bin Song    | jibin86           |
 | Lim Yong Seong | [YongCastle](https://github.com/YongCastle)   |
 
